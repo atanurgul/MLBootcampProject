@@ -25,4 +25,4 @@ Sonuçlar
 - F1 Score, Precision ve Recall değerleri özellikle orta ve yüksek sınıflarda harika seviyedeydi.
 
 Kaggle Notebook Linki
-......
+https://www.kaggle.com/code/atanurgl/mlbootcampproject
